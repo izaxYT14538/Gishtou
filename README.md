@@ -5,7 +5,9 @@ Primero descargar Python: https://www.python.org/downloads/
 
 Despues Presionar Win + R y escribir cmd.exe
 
-Luego escribir el comando: pip install PyQt5
+escribir el comando: pip install PyQt5
+
+luego escribir el comando: pip install PyQtWebEngine
 
 y despues descargar
 
