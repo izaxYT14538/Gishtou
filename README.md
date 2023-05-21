@@ -1,4 +1,5 @@
 # Gishtou
+Aviso: Este navegador esta descontinuado, en su lugar use Q Browser que es mas avanzado.
 Un Navegador Basado en QtWebEngine en Python
 
 Primero descargar Python: https://www.python.org/downloads/
