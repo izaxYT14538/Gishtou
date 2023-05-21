@@ -1,15 +1,3 @@
 # Gishtou
-Aviso: Este navegador esta descontinuado, en su lugar use Q Browser que es mas avanzado.
-Un Navegador Basado en QtWebEngine en Python
+Aviso: Este navegador esta descontinuado, en su lugar use Q Browser que es mas avanzado y tiene la misma base que Gishtou, es decir, PyQtWebEngine.
 
-Primero descargar Python: https://www.python.org/downloads/
-
-Despues Presionar Win + R y escribir cmd.exe
-
-escribir el comando: pip install PyQt5
-
-luego escribir el comando: pip install PyQtWebEngine
-
-y despues descargar
-
-![gishtouscreenshot](https://user-images.githubusercontent.com/101516262/180874895-5ff5a049-7181-4114-a549-5566cd9042dd.PNG)
